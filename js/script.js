@@ -133,7 +133,7 @@ async function displayAlbums() {
                 </svg>
               </div>
 
-              <img src="/Tilawat/${folder}/cover.jpeg" alt="" />
+              <img src="/tilawat/${folder}/cover.jpeg" alt="" />
               <h3>${response.title}</h3>
               
             </div>`
